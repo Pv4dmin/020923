@@ -1,0 +1,15 @@
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.csproj.AssemblyReference.cache
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.GeneratedMSBuildEditorConfig.editorconfig
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.AssemblyInfoInputs.cache
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.AssemblyInfo.cs
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.csproj.CoreCompileInputs.cache
+F:\gb\020923\hwork2\bin\Debug\net6.0\hwork2.exe
+F:\gb\020923\hwork2\bin\Debug\net6.0\hwork2.deps.json
+F:\gb\020923\hwork2\bin\Debug\net6.0\hwork2.runtimeconfig.json
+F:\gb\020923\hwork2\bin\Debug\net6.0\hwork2.dll
+F:\gb\020923\hwork2\bin\Debug\net6.0\hwork2.pdb
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.dll
+F:\gb\020923\hwork2\obj\Debug\net6.0\refint\hwork2.dll
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.pdb
+F:\gb\020923\hwork2\obj\Debug\net6.0\hwork2.genruntimeconfig.cache
+F:\gb\020923\hwork2\obj\Debug\net6.0\ref\hwork2.dll

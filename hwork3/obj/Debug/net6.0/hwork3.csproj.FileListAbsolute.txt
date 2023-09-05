@@ -1,0 +1,15 @@
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.csproj.AssemblyReference.cache
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.GeneratedMSBuildEditorConfig.editorconfig
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.AssemblyInfoInputs.cache
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.AssemblyInfo.cs
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.csproj.CoreCompileInputs.cache
+F:\gb\020923\hwork3\bin\Debug\net6.0\hwork3.exe
+F:\gb\020923\hwork3\bin\Debug\net6.0\hwork3.deps.json
+F:\gb\020923\hwork3\bin\Debug\net6.0\hwork3.runtimeconfig.json
+F:\gb\020923\hwork3\bin\Debug\net6.0\hwork3.dll
+F:\gb\020923\hwork3\bin\Debug\net6.0\hwork3.pdb
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.dll
+F:\gb\020923\hwork3\obj\Debug\net6.0\refint\hwork3.dll
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.pdb
+F:\gb\020923\hwork3\obj\Debug\net6.0\hwork3.genruntimeconfig.cache
+F:\gb\020923\hwork3\obj\Debug\net6.0\ref\hwork3.dll
