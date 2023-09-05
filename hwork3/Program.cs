@@ -35,7 +35,7 @@ void Diff(double[] dif)
 	Console.WriteLine($"Максимальное число в массиве {max}");
 	Console.WriteLine($"Минимальное число в массиве {min}");
 	double res = max - min;
-	double resoult = Math.Max(res, 3);
+	double resoult = Math.Max(res, 2);
 	Console.WriteLine($"Разница между ними равна {resoult}");
 }
 
